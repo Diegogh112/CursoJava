@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cjava.modulo01/cjava.modelo.iml" filepath="$PROJECT_DIR$/cjava.modulo01/cjava.modelo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjava.modulo02/cjava.servicios.iml" filepath="$PROJECT_DIR$/cjava.modulo02/cjava.servicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjava.modulo03/cjava.util.iml" filepath="$PROJECT_DIR$/cjava.modulo03/cjava.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/s05_prg_ejemplo03.iml" />
+    </modules>
+  </component>
+</project>

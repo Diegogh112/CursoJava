@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cjavamods.pruebas/cjavamods.pruebas.iml" filepath="$PROJECT_DIR$/cjavamods.pruebas/cjavamods.pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjavamods.utilitarios/cjavamods.utilitarios.iml" filepath="$PROJECT_DIR$/cjavamods.utilitarios/cjavamods.utilitarios.iml" />
+    </modules>
+  </component>
+</project>
