@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="807d44f4-f181-4317-8056-1c574bc93f3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/ArrayOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/Comments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/DoWhileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/IfBranching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/Ifelseif.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/Ifelseif1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/IntegerPrimitives.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/PassByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/RealPrimitives.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/Simple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/StringOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/Strings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/SwitchStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/SwitchStringStatement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/SwitchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/WhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/out/production/s01_prg_ejemplo01/com/example/review/WhileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/s01_prg_ejemplo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/ArrayOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/IfBranching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Ifelseif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Ifelseif1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/IntegerPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/RealPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Simple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/SwitchStringStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/SwitchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo01/src/com/example/review/WhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/cjava/pruebas/Prueba01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/cjava/pruebas/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/cjava/pruebas/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/cjava/pruebas/Prueba01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/cjava/pruebas/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/cjava/pruebas/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/doc/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/out/production/s01_prg_ejemplo02/cjava/pruebas/Prueba01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo02/src/cjava/pruebas/Prueba01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo03/out/production/s01_prg_ejemplo03/cjava/pruebas/Prueba01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo03/s01_prg_ejemplo03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo03/src/cjava/pruebas/Prueba01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/out/production/s01_prg_ejemplo04/cjava/pruebas/Prueba01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/out/production/s01_prg_ejemplo04/cjava/pruebas/Prueba02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/out/production/s01_prg_ejemplo04/cjava/pruebas/Prueba03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/s01_prg_ejemplo04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/src/cjava/pruebas/Prueba01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/src/cjava/pruebas/Prueba02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo04/src/cjava/pruebas/Prueba03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/out/production/s01_prg_ejemplo05/cjava/beans/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/out/production/s01_prg_ejemplo05/cjava/pruebas/Prueba01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/out/production/s01_prg_ejemplo05/cjava/pruebas/Prueba02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/out/production/s01_prg_ejemplo05/cjava/pruebas/Prueba03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/out/production/s01_prg_ejemplo05/cjava/pruebas/Prueba04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/s01_prg_ejemplo05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/src/cjava/beans/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/src/cjava/pruebas/Prueba01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/src/cjava/pruebas/Prueba02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/src/cjava/pruebas/Prueba03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo05/src/cjava/pruebas/Prueba04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/beans/Curso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/beans/Persona.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/pruebas/Prueba01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/pruebas/Prueba02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/pruebas/Prueba03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/pruebas/Prueba04$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/out/production/s01_prg_ejemplo06/cjava/pruebas/Prueba04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/s01_prg_ejemplo06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/src/cjava/beans/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/src/cjava/beans/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/src/cjava/pruebas/Prueba01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/src/cjava/pruebas/Prueba02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/src/cjava/pruebas/Prueba03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/s01_prg_ejemplo06/src/cjava/pruebas/Prueba04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guias/material01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guias/material02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guias/programmer11_oracle.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guias/sesion01.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/material 1-20250614.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/demo">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="38JBEklVo5uCXeJUL5DX37Y4iVu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/CursoJava/Programmer/Sesion 1/Ejercicios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-d55de845" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="807d44f4-f181-4317-8056-1c574bc93f3e" name="Changes" comment="" />
+      <created>1768507683654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768507683654</updated>
+      <workItem from="1768507684658" duration="246000" />
+      <workItem from="1768572275875" duration="795000" />
+      <workItem from="1768580397185" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

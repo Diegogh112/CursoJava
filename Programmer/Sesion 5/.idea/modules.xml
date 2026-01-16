@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sesion 5.iml" filepath="$PROJECT_DIR$/Sesion 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion 51.iml" filepath="$PROJECT_DIR$/Sesion 51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion 52.iml" filepath="$PROJECT_DIR$/Sesion 52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion 53.iml" filepath="$PROJECT_DIR$/Sesion 53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios/s05_prg_ejemplo02/cjava.pruebas/cjava.pruebas.iml" filepath="$PROJECT_DIR$/Ejercicios/s05_prg_ejemplo02/cjava.pruebas/cjava.pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios/cjavamods/cjavamods.pruebas/cjavamods.pruebas.iml" filepath="$PROJECT_DIR$/Ejercicios/cjavamods/cjavamods.pruebas/cjavamods.pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios/cjavamods/cjavamods.utilitarios/cjavamods.utilitarios.iml" filepath="$PROJECT_DIR$/Ejercicios/cjavamods/cjavamods.utilitarios/cjavamods.utilitarios.iml" />
+    </modules>
+  </component>
+</project>
