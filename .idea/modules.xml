@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CursoJava.iml" filepath="$PROJECT_DIR$/CursoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava1.iml" filepath="$PROJECT_DIR$/CursoJava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava2.iml" filepath="$PROJECT_DIR$/CursoJava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoJava3.iml" filepath="$PROJECT_DIR$/CursoJava3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 4/Sesion 4.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 4/Sesion 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 5/Sesion 5.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 5/Sesion 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 5/Ejercicios/s05_prg_ejemplo02/cjava.pruebas/cjava.pruebas.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 5/Ejercicios/s05_prg_ejemplo02/cjava.pruebas/cjava.pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 5/Ejercicios/cjavamods/cjavamods.pruebas/cjavamods.pruebas.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 5/Ejercicios/cjavamods/cjavamods.pruebas/cjavamods.pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 5/Ejercicios/cjavamods/cjavamods.utilitarios/cjavamods.utilitarios.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 5/Ejercicios/cjavamods/cjavamods.utilitarios/cjavamods.utilitarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo01/s01_prg_ejemplo01.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo01/s01_prg_ejemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo02/s01_prg_ejemplo02.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo02/s01_prg_ejemplo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo03/s01_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo03/s01_prg_ejemplo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo04/s01_prg_ejemplo04.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo04/s01_prg_ejemplo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo05/s01_prg_ejemplo05.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo05/s01_prg_ejemplo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo06/s01_prg_ejemplo06.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 1/Ejercicios/s01_prg_ejemplo06/s01_prg_ejemplo06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo01/s02_prg_ejemplo01.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo01/s02_prg_ejemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo02/s02_prg_ejemplo02.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo02/s02_prg_ejemplo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo03/s02_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo03/s02_prg_ejemplo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo04/s02_prg_ejemplo04.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo04/s02_prg_ejemplo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo05/s02_prg_ejemplo05.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 2/Ejercicios/s02_prg_ejemplo05/s02_prg_ejemplo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo01/s03_prg_ejemplo01.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo01/s03_prg_ejemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo02/s03_prg_ejemplo02.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo02/s03_prg_ejemplo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo03/s03_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo03/s03_prg_ejemplo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo04/s03_prg_ejemplo04.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo04/s03_prg_ejemplo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo05/s03_prg_ejemplo05.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo05/s03_prg_ejemplo05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo06/s03_prg_ejemplo06.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo06/s03_prg_ejemplo06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo07/s03_prg_ejemplo07.iml" filepath="$PROJECT_DIR$/Programmer/Sesion 3/Ejercicios/s03_prg_ejemplo07/s03_prg_ejemplo07.iml" />
+    </modules>
+  </component>
+</project>
