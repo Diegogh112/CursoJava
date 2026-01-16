@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ejercicios.iml" filepath="$PROJECT_DIR$/.idea/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s02_prg_ejemplo01/s02_prg_ejemplo01.iml" filepath="$PROJECT_DIR$/s02_prg_ejemplo01/s02_prg_ejemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s02_prg_ejemplo02/s02_prg_ejemplo02.iml" filepath="$PROJECT_DIR$/s02_prg_ejemplo02/s02_prg_ejemplo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s02_prg_ejemplo03/s02_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/s02_prg_ejemplo03/s02_prg_ejemplo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s02_prg_ejemplo04/s02_prg_ejemplo04.iml" filepath="$PROJECT_DIR$/s02_prg_ejemplo04/s02_prg_ejemplo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s02_prg_ejemplo05/s02_prg_ejemplo05.iml" filepath="$PROJECT_DIR$/s02_prg_ejemplo05/s02_prg_ejemplo05.iml" />
+    </modules>
+  </component>
+</project>

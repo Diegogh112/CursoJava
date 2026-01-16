@@ -12,8 +12,8 @@ public class Alumno extends Persona{
 
     public Alumno() {
         super();
-        //this.promedio=0;
-        //this.estado=null;
+        this.promedio=0;
+        this.estado=null;
     }
 
     public Alumno(double promedio, String nombre,
