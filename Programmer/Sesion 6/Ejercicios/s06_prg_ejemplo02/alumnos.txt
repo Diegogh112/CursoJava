@@ -1,0 +1,3 @@
+101,juan,15,false,aprobado
+102,maria,20,true,aprobado
+103,pedro,5,false,desaprobado

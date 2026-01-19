@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CopyAllLinesExample/CopyAllLinesExample.iml" filepath="$PROJECT_DIR$/CopyAllLinesExample/CopyAllLinesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CopyStreamExample/CopyStreamExample.iml" filepath="$PROJECT_DIR$/CopyStreamExample/CopyStreamExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiskUsageExample/DiskUsageExample.iml" filepath="$PROJECT_DIR$/DiskUsageExample/DiskUsageExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmployeeSearch08/EmployeeSearch08.iml" filepath="$PROJECT_DIR$/EmployeeSearch08/EmployeeSearch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindFileExample/FindFileExample.iml" filepath="$PROJECT_DIR$/FindFileExample/FindFileExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListDirectoryExample/ListDirectoryExample.iml" filepath="$PROJECT_DIR$/ListDirectoryExample/ListDirectoryExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathExample/PathExample.iml" filepath="$PROJECT_DIR$/PathExample/PathExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathOperationsExample/PathOperationsExample.iml" filepath="$PROJECT_DIR$/PathOperationsExample/PathOperationsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WalkFileTreeExample/WalkFileTreeExample.iml" filepath="$PROJECT_DIR$/WalkFileTreeExample/WalkFileTreeExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WatchDirExample/WatchDirExample.iml" filepath="$PROJECT_DIR$/WatchDirExample/WatchDirExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/s06_prg_ejemplo03.iml" />
+    </modules>
+  </component>
+</project>

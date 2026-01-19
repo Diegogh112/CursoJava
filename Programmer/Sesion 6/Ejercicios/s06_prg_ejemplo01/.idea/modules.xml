@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssertExamples/AssertExamples.iml" filepath="$PROJECT_DIR$/AssertExamples/AssertExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomExceptionExample/CustomExceptionExample.iml" filepath="$PROJECT_DIR$/CustomExceptionExample/CustomExceptionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionClassMethodsExample/ExceptionClassMethodsExample.iml" filepath="$PROJECT_DIR$/ExceptionClassMethodsExample/ExceptionClassMethodsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinallyExample/FinallyExample.iml" filepath="$PROJECT_DIR$/FinallyExample/FinallyExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiCatchExample/MultiCatchExample.iml" filepath="$PROJECT_DIR$/MultiCatchExample/MultiCatchExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MutlipeCatchBlocksExample/MutlipeCatchBlocksExample.iml" filepath="$PROJECT_DIR$/MutlipeCatchBlocksExample/MutlipeCatchBlocksExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThrowExample/ThrowExample.iml" filepath="$PROJECT_DIR$/ThrowExample/ThrowExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThrowsExample/ThrowsExample.iml" filepath="$PROJECT_DIR$/ThrowsExample/ThrowsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TryCatchExample/TryCatchExample.iml" filepath="$PROJECT_DIR$/TryCatchExample/TryCatchExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06_prg_ejemplo01.iml" filepath="$PROJECT_DIR$/s06_prg_ejemplo01.iml" />
+    </modules>
+  </component>
+</project>

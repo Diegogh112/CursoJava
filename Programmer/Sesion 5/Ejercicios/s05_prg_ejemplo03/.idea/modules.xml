@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/s05_prg_ejemplo03.iml" filepath="$PROJECT_DIR$/s05_prg_ejemplo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05_prg_ejemplo4.iml" filepath="$PROJECT_DIR$/s05_prg_ejemplo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05_prg_ejemplo5.iml" filepath="$PROJECT_DIR$/s05_prg_ejemplo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s05_prg_ejemplo6.iml" filepath="$PROJECT_DIR$/s05_prg_ejemplo6.iml" />
+    </modules>
+  </component>
+</project>

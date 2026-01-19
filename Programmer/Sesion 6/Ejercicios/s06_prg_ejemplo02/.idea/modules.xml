@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BufferedStreamsExample/BufferedStreamsExample.iml" filepath="$PROJECT_DIR$/BufferedStreamsExample/BufferedStreamsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteChannelExample/ByteChannelExample.iml" filepath="$PROJECT_DIR$/ByteChannelExample/ByteChannelExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ByteStreamsExample/ByteStreamsExample.iml" filepath="$PROJECT_DIR$/ByteStreamsExample/ByteStreamsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharStreamsExample/CharStreamsExample.iml" filepath="$PROJECT_DIR$/CharStreamsExample/CharStreamsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandLineExample/CommandLineExample.iml" filepath="$PROJECT_DIR$/CommandLineExample/CommandLineExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NodeStreamsExample/NodeStreamsExample.iml" filepath="$PROJECT_DIR$/NodeStreamsExample/NodeStreamsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SerializeStockExample/SerializeStockExample.iml" filepath="$PROJECT_DIR$/SerializeStockExample/SerializeStockExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s06_prg_ejemplo02.iml" filepath="$PROJECT_DIR$/s06_prg_ejemplo02.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+310,pablo2,true,14.0,Desaprobado
+320,marcos2,true,11.0,Desaprobado
+330,judas2,true,5.0,Desaprobado
