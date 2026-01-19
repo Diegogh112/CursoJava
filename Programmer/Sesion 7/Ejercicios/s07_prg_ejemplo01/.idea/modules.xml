@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListExample/ArrayListExample.iml" filepath="$PROJECT_DIR$/ArrayListExample/ArrayListExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtomicExample/AtomicExample.iml" filepath="$PROJECT_DIR$/AtomicExample/AtomicExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicBarrierExample/CyclicBarrierExample.iml" filepath="$PROJECT_DIR$/CyclicBarrierExample/CyclicBarrierExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExecutorExample/ExecutorExample.iml" filepath="$PROJECT_DIR$/ExecutorExample/ExecutorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendingThreadExample/ExtendingThreadExample.iml" filepath="$PROJECT_DIR$/ExtendingThreadExample/ExtendingThreadExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplementingRunnableExample/ImplementingRunnableExample.iml" filepath="$PROJECT_DIR$/ImplementingRunnableExample/ImplementingRunnableExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockExample/LockExample.iml" filepath="$PROJECT_DIR$/LockExample/LockExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedDataExample/SharedDataExample.iml" filepath="$PROJECT_DIR$/SharedDataExample/SharedDataExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizedExamples/SynchronizedExamples.iml" filepath="$PROJECT_DIR$/SynchronizedExamples/SynchronizedExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPoolExample/ThreadPoolExample.iml" filepath="$PROJECT_DIR$/ThreadPoolExample/ThreadPoolExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSleepExample/ThreadSleepExample.iml" filepath="$PROJECT_DIR$/ThreadSleepExample/ThreadSleepExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadStoppingExample/ThreadStoppingExample.iml" filepath="$PROJECT_DIR$/ThreadStoppingExample/ThreadStoppingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s07_prg_ejemplo01.iml" filepath="$PROJECT_DIR$/s07_prg_ejemplo01.iml" />
+    </modules>
+  </component>
+</project>

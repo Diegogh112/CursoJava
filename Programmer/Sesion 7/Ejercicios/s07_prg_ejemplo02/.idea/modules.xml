@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinFindMax/ForkJoinFindMax.iml" filepath="$PROJECT_DIR$/ForkJoinFindMax/ForkJoinFindMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProcessorCountExample/ProcessorCountExample.iml" filepath="$PROJECT_DIR$/ProcessorCountExample/ProcessorCountExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s07_prg_ejemplo02.iml" filepath="$PROJECT_DIR$/s07_prg_ejemplo02.iml" />
+    </modules>
+  </component>
+</project>

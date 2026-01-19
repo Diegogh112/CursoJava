@@ -1,0 +1,3 @@
+600,Juana,Dominguez,12.0,desaprobado
+350,Zoilo,Maximo,14.0,aprobado
+100,juan,perez,15.0,aprobado
