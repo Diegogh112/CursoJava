@@ -1,9 +1,10 @@
 package util;
 
-import lib.Conversion;
+public class Operacion {
+    public static double sumar(String n1, String n2){
+        return Double.parseDouble(n1) + Double.parseDouble(n2);
+    };
 
-public class Operacion  extends Conversion {
-    public static String sumar(String s1,String s2){
-        return aCadena(aReal(s1)+aReal(s2));
-    }
+    public static String aCadena(int i){return String.valueOf(i);};
+
 }
