@@ -1,0 +1,20 @@
+Ejercicio 01.
+
+Desarrollar los componentes necesarios para hacer un mantenimiento a 
+la tabla alumno.  Use Patron Dao y tome como modelo la Prueba02.
+
++-----------------+-------------+------+-----+---------+-------+
+| Field           | Type        | Null | Key | Default | Extra |
++-----------------+-------------+------+-----+---------+-------+
+| chrAluCodigo    | char(10)    | NO   | PRI | NULL    |       |
+| vchAluNombres   | varchar(50) | YES  |     | NULL    |       |
+| vchAluApellidos | varchar(50) | YES  |     | NULL    |       |
+| dtmAluFechaNac  | datetime    | YES  |     | NULL    |       |
+| chrAluSexo      | char(1)     | YES  |     | NULL    |       |
++-----------------+-------------+------+-----+---------+-------+
+
+
+Ejercicio 02.
+implementar el codigo necesario para crear un alumno y mostrar la lista de alumnos en la base de datos.
+
+
